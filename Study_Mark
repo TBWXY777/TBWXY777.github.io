@@ -4,4 +4,6 @@ Code: 显示一个仓库中的文件列表
 Issue: 管理BUG报告、功能添加、方向性讨论
 Pull Requests: 用户修改代码后向对方仓库发送采纳请求的功能 => 核心功能 使得众多开发者可以轻松加入开源开发团队
 WiKi: 编写文档的功能 => 所有有权限的人都可以对文档修改 => 适合多人共同编写文章
+Project:是project-boards的简写 => 可以理解为工作计划表之类的书签，制定一下工作计划，Bug等
+Actions:一个 CI\CD 服务 => 「持续集成（Continuous Integration）」、「持续交付（Continuous Delivery）」、「持续部署（Continuous Deployment）」
 Pulse: 体现该仓库软件开发活跃度的功能
