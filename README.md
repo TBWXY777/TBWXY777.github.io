@@ -17,6 +17,4 @@
 
 
 
-# 贴一个洛谷博客 填填空白
-
-https://www.luogu.com.cn/blog/Tb777/#
+# 贴一个[洛谷博客](https://www.luogu.com.cn/blog/Tb777/#) 填填空白
